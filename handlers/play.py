@@ -150,7 +150,7 @@ async def play(_, message: Message):
          
                         InlineKeyboardButton(
                             text="𝗖𝗿𝗲𝗮𝘁𝗼𝗿 😎",
-                            url=f"https://t.me/Pavanmagar")
+                            url=f"https://t.me/TheCreatorPavan")
                    
                 ]
             ]
